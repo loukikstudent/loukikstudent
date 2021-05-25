@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yello 👋
 My name is Loukik Bhangale, you can call me Loki, i am a Freelancer, Machine Learning Enthusiast, Full Stack Developer, Python Intermediate, Photographer and I drool over Servers.
 
 - 🔭 I’m currently working on a project with ISRO, and private firms
