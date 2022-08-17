@@ -1,7 +1,7 @@
 ### Yello 👋
 My name is Loukik Bhangale, you can call me Loki, i am a Freelancer, Machine Learning Enthusiast, Full Stack Developer, Python Intermediate, Photographer and I drool over Servers.
 
-- 🔭 I’m currently working on a project with ISRO, and private firms
+- 🔭 I’m currently working with Barclays as a Backend Developer
 - 🌱 I’m currently learning automations and Deployments
 - 👯 I’m looking to collaborate on anything that involves Python/Django/ML/AI and an opportunity to learn/teach
 - 💬 Ask me about any questions or suggestions you have about my repositories
