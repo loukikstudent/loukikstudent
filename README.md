@@ -5,7 +5,7 @@ My name is Loukik Bhangale, you can call me Loki, i am a Freelancer, Machine Lea
 - 🌱 I’m currently learning automations and Deployments
 - 👯 I’m looking to collaborate on anything that involves Python/Django/ML/AI and an opportunity to learn/teach
 - 💬 Ask me about any questions or suggestions you have about my repositories
-- 📫 How to reach me: loukikstudent@gmail.com
+- 📫 How to reach me: loukik.bhangale17@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have been a Photographer for about 12 years now and I am Licensed Scuba Diver
 
