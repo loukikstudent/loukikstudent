@@ -7,7 +7,7 @@ My name is Loukik Bhangale, you can call me Loki, i am a Freelancer, Machine Lea
 - 💬 Ask me about any questions or suggestions you have about my repositories
 - 📫 How to reach me: loukik.bhangale17@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have been a Photographer for about 12 years now and I am Licensed Scuba Diver
+- ⚡ Fun fact: I have been a Photographer for about 13 years now and I am Licensed Scuba Diver
 
 
 ![Loukik's GitHub stats](https://github-readme-stats.vercel.app/api?username=loukikstudent&show_icons=true&count_private=true&theme=dark)
